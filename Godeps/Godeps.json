@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/markstgodard/gostatic",
+	"GoVersion": "go1.5.3",
+	"Deps": []
+}
